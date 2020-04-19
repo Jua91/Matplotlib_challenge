@@ -7,6 +7,7 @@ In the study, the maximum period for squamous cell carcinoma treatment was 45 da
 Looking into gender, almost identical numbers of female and male were studied.
 
 ![boxplot](figures/boxplot.png)
+![line_chart](figures/line_chart.png)
 
 The capomulin treatment was the most effective because the mice treated with capomulin had the lowest final tumor volume. The tumor volume decreased from 45mm3 to 36mm3 after the treatment.
 
